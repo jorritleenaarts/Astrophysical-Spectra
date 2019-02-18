@@ -1,0 +1,812 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.19 (TeX Live 2018) (preloaded format=pdflatex 2019.1.30)  18 FEB 2019 13:59
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**AS7006_ln.tex
+(./AS7006_ln.tex
+LaTeX2e <2018-04-01> patch level 2
+Babel <3.18> and hyphenation patterns for 84 language(s) loaded.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2014/09/29 v1.4h Standard LaTeX document class
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/size12.clo
+File: size12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen103
+\Gin@req@width=\dimen104
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsmath.sty
+Package: amsmath 2017/09/02 v2.17a AMS math features
+\@mathmargin=\skip43
+
+For additional information on amsmath, use the `?' option.
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amstext.sty
+Package: amstext 2000/06/29 v2.01 AMS text
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks15
+\ex@=\dimen105
+))
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen106
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/amsmath/amsopn.sty
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count88
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count89
+\leftroot@=\count90
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count91
+\DOTSCASE@=\count92
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen107
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count93
+\c@MaxMatrixCols=\count94
+\dotsspace@=\muskip10
+\c@parentequation=\count95
+\dspbrk@lvl=\count96
+\tag@help=\toks16
+\row@=\count97
+\column@=\count98
+\maxfields@=\count99
+\andhelp@=\toks17
+\eqnshift@=\dimen108
+\alignsep@=\dimen109
+\tagshift@=\dimen110
+\tagwidth@=\dimen111
+\totwidth@=\dimen112
+\lineht@=\dimen113
+\@envbody=\toks18
+\multlinegap=\skip44
+\multlinetaggap=\skip45
+\mathdisplay@stack=\toks19
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hyperref.sty
+Package: hyperref 2018/02/06 v6.86b Hypertext links for LaTeX
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-hyperref.sty
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/hobsub-generic.sty
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package: ifpdf 2017/03/15 v3.2 Provides the ifpdf switch
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+Package: pdftexcmds 2018/01/30 v0.27 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package atveryend Info: \enddocument detected (standard20110627).
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/auxhook.sty
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+)
+\@linkdim=\dimen114
+\Hy@linkcounter=\count100
+\Hy@pagecounter=\count101
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/pd1enc.def
+File: pd1enc.def 2018/02/06 v6.86b Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count102
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/hyperref.cfg
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Hyper figures OFF on input line 4509.
+Package hyperref Info: Link nesting OFF on input line 4514.
+Package hyperref Info: Hyper index ON on input line 4517.
+Package hyperref Info: Plain pages OFF on input line 4524.
+Package hyperref Info: Backreferencing OFF on input line 4529.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4762.
+\c@Hy@tempcnt=\count103
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/url/url.sty
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5115.
+\XeTeXLinkMargin=\dimen115
+\Fld@menulength=\count104
+\Field@Width=\dimen116
+\Fld@charsize=\dimen117
+Package hyperref Info: Hyper figures OFF on input line 6369.
+Package hyperref Info: Link nesting OFF on input line 6374.
+Package hyperref Info: Hyper index ON on input line 6377.
+Package hyperref Info: backreferencing OFF on input line 6384.
+Package hyperref Info: Link coloring OFF on input line 6389.
+Package hyperref Info: Link coloring with OCG OFF on input line 6394.
+Package hyperref Info: PDF/A mode OFF on input line 6399.
+LaTeX Info: Redefining \ref on input line 6439.
+LaTeX Info: Redefining \pageref on input line 6443.
+\Hy@abspage=\count105
+\c@Item=\count106
+\c@Hfootnote=\count107
+)
+Package hyperref Info: Driver (autodetected): hpdftex.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/hpdftex.def
+File: hpdftex.def 2018/02/06 v6.86b Hyperref driver for pdfTeX
+\Fld@listcount=\count108
+\c@bookmark@seq@number=\count109
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/rerunfilecheck.sty
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip46
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/natbib/natbib.sty
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip47
+\bibsep=\skip48
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count110
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/enumitem/enumitem.sty
+Package: enumitem 2011/09/28 v3.5.2 Customized lists
+\labelindent=\skip49
+\enit@outerparindent=\dimen118
+\enit@toks=\toks20
+\enit@inbox=\box28
+\enitdp@description=\count111
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption.sty
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/caption/caption3.sty
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen119
+\captionmargin@=\dimen120
+\captionwidth=\dimen121
+\caption@tempdima=\dimen122
+\caption@indent=\dimen123
+\caption@parindent=\dimen124
+\caption@hangindent=\dimen125
+)
+\c@ContinuedFloat=\count112
+Package caption Info: hyperref package is loaded.
+)
+(/usr/local/texlive/2018/texmf-dist/tex/latex/sidecap/sidecap.sty
+Package: sidecap 2003/06/06 v1.6f SideCap Package (RN/HjG)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+\SC@BOXWD=\dimen126
+\SC@CAPWD=\dimen127
+\SC@tempdima=\dimen128
+\SC@tempdimb=\dimen129
+\c@SC@C=\count113
+\SC@BOX=\box29
+)
+Package hyperref Info: Option `linktocpage' set `true' on input line 14.
+Package hyperref Info: Option `colorlinks' set `true' on input line 21.
+\c@vraag=\count114
+\c@lastvraag=\count115
+\c@subvraag=\count116
+\c@lastsubvraag=\count117
+
+(./AS7006_ln.aux)
+\openout1 = `AS7006_ln.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 164.
+LaTeX Font Info:    ... okay on input line 164.
+
+(/usr/local/texlive/2018/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count118
+\scratchdimen=\dimen130
+\scratchbox=\box30
+\nofMPsegments=\count119
+\nofMParguments=\count120
+\everyMPshowfont=\toks21
+\MPscratchCnt=\count121
+\MPscratchDim=\dimen131
+\MPnumerator=\count122
+\makeMPintoPDFobject=\count123
+\everyMPtoPDFconversion=\toks22
+) (/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Liv
+e
+))
+\AtBeginShipoutBox=\box31
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics/color.sty
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+)
+Package hyperref Info: Link coloring ON on input line 164.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/hyperref/nameref.sty
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+(/usr/local/texlive/2018/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count124
+)
+LaTeX Info: Redefining \ref on input line 164.
+LaTeX Info: Redefining \pageref on input line 164.
+LaTeX Info: Redefining \nameref on input line 164.
+
+(./AS7006_ln.out) (./AS7006_ln.out)
+\@outlinefile=\write3
+\openout3 = `AS7006_ln.out'.
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: sidecap package is loaded.
+Package caption Info: End \AtBeginDocument code.
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/ragged2e.sty
+Package: ragged2e 2009/05/21 v2.1 ragged2e Package (MS)
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/ms/everysel.sty
+Package: everysel 2011/10/28 v1.2 EverySelectfont Package (MS)
+
+ABD: EverySelectfont initializing macros
+LaTeX Info: Redefining \selectfont on input line 126.
+)
+\CenteringLeftskip=\skip50
+\RaggedLeftLeftskip=\skip51
+\RaggedRightLeftskip=\skip52
+\CenteringRightskip=\skip53
+\RaggedLeftRightskip=\skip54
+\RaggedRightRightskip=\skip55
+\CenteringParfillskip=\skip56
+\RaggedLeftParfillskip=\skip57
+\RaggedRightParfillskip=\skip58
+\JustifyingParfillskip=\skip59
+\CenteringParindent=\skip60
+\RaggedLeftParindent=\skip61
+\RaggedRightParindent=\skip62
+\JustifyingParindent=\skip63
+) [1
+
+{/usr/local/texlive/2018/texmf-var/fonts/map/pdftex/updmap/pdftex.map}] (./AS70
+06_ln.toc [2
+
+])
+\tf@toc=\write4
+\openout4 = `AS7006_ln.toc'.
+
+ [3]
+LaTeX Font Info:    Try loading font information for OMS+cmr on input line 177.
+
+
+(/usr/local/texlive/2018/texmf-dist/tex/latex/base/omscmr.fd
+File: omscmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    Font shape `OMS/cmr/m/n' in size <12> not available
+(Font)              Font shape `OMS/cmsy/m/n' tried instead on input line 177.
+
+Overfull \hbox (3.5862pt too wide) in paragraph at lines 179--180
+[]\OT1/cmr/m/n/12 The lec-ture notes ``The gen-er-a-tion and trans-port of ra-d
+i-a-tion'' by Robert
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 183--187
+
+ []
+
+[4] [5]
+<figs/fig_solid_angle.pdf, id=243, 266.82407pt x 171.26485pt>
+File: figs/fig_solid_angle.pdf Graphic file (type pdf)
+<use figs/fig_solid_angle.pdf>
+Package pdftex.def Info: figs/fig_solid_angle.pdf  used on input line 211.
+(pdftex.def)             Requested size: 227.62204pt x 146.1063pt.
+ [6 <./figs/fig_solid_angle.pdf>]
+Package epstopdf Info: Source file: <figs/intensity_def.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 5786 bytes
+(epstopdf)             Output file: <figs/intensity_def-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:39
+(epstopdf)                    size: 5661 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/intensity_def-eps-con
+verted-to.pdf figs/intensity_def.eps>
+(epstopdf)             \includegraphics on input line 260.
+Package epstopdf Info: Output file is already uptodate.
+<figs/intensity_def-eps-converted-to.pdf, id=372, 389.455pt x 88.33pt>
+File: figs/intensity_def-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/intensity_def-eps-converted-to.pdf>
+Package pdftex.def Info: figs/intensity_def-eps-converted-to.pdf  used on input
+ line 260.
+(pdftex.def)             Requested size: 341.43306pt x 77.44084pt.
+ [7
+
+ <./figs/intensity_def-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/intensity_conserved.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 5321 bytes
+(epstopdf)             Output file: <figs/intensity_conserved-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2019-02-18 13:59:39
+(epstopdf)                    size: 4690 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/intensity_conserved-e
+ps-converted-to.pdf figs/intensity_conserved.eps>
+(epstopdf)             \includegraphics on input line 291.
+Package epstopdf Info: Output file is already uptodate.
+<figs/intensity_conserved-eps-converted-to.pdf, id=392, 421.575pt x 101.37875pt
+>
+File: figs/intensity_conserved-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/intensity_conserved-eps-converted-to.pdf>
+Package pdftex.def Info: figs/intensity_conserved-eps-converted-to.pdf  used on
+ input line 291.
+(pdftex.def)             Requested size: 341.43306pt x 82.1086pt.
+ [8] [9 <./figs/intensity_conserved-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/flux_def.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 4613 bytes
+(epstopdf)             Output file: <figs/flux_def-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:40
+(epstopdf)                    size: 5218 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/flux_def-eps-converte
+d-to.pdf figs/flux_def.eps>
+(epstopdf)             \includegraphics on input line 352.
+Package epstopdf Info: Output file is already uptodate.
+<figs/flux_def-eps-converted-to.pdf, id=420, 204.765pt x 222.8325pt>
+File: figs/flux_def-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/flux_def-eps-converted-to.pdf>
+Package pdftex.def Info: figs/flux_def-eps-converted-to.pdf  used on input line
+ 352.
+(pdftex.def)             Requested size: 170.71652pt x 185.79076pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+[10 <./figs/flux_def-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/bright_sphere.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 4561 bytes
+(epstopdf)             Output file: <figs/bright_sphere-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:40
+(epstopdf)                    size: 5344 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/bright_sphere-eps-con
+verted-to.pdf figs/bright_sphere.eps>
+(epstopdf)             \includegraphics on input line 389.
+Package epstopdf Info: Output file is already uptodate.
+<figs/bright_sphere-eps-converted-to.pdf, id=443, 434.62375pt x 115.43124pt>
+File: figs/bright_sphere-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/bright_sphere-eps-converted-to.pdf>
+Package pdftex.def Info: figs/bright_sphere-eps-converted-to.pdf  used on input
+ line 389.
+(pdftex.def)             Requested size: 341.43306pt x 90.68593pt.
+ [11 <./figs/bright_sphere-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/resolved_unresolved.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 7551 bytes
+(epstopdf)             Output file: <figs/resolved_unresolved-eps-converted-to.
+pdf>
+(epstopdf)                    date: 2019-02-18 13:59:40
+(epstopdf)                    size: 8402 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/resolved_unresolved-e
+ps-converted-to.pdf figs/resolved_unresolved.eps>
+(epstopdf)             \includegraphics on input line 428.
+Package epstopdf Info: Output file is already uptodate.
+<figs/resolved_unresolved-eps-converted-to.pdf, id=463, 533.995pt x 243.91125pt
+>
+File: figs/resolved_unresolved-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/resolved_unresolved-eps-converted-to.pdf>
+Package pdftex.def Info: figs/resolved_unresolved-eps-converted-to.pdf  used on
+ input line 428.
+(pdftex.def)             Requested size: 341.43306pt x 155.96123pt.
+ [12]
+<figs/photometric_bands.pdf, id=475, 364.2954pt x 492.85822pt>
+File: figs/photometric_bands.pdf Graphic file (type pdf)
+<use figs/photometric_bands.pdf>
+Package pdftex.def Info: figs/photometric_bands.pdf  used on input line 443.
+(pdftex.def)             Requested size: 341.43306pt x 461.94063pt.
+ [13 <./figs/resolved_unresolved-eps-converted-to.pdf>]
+[14 <./figs/photometric_bands.pdf>] [15]
+Package epstopdf Info: Source file: <figs/emissivity_def.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 4898 bytes
+(epstopdf)             Output file: <figs/emissivity_def-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:41
+(epstopdf)                    size: 5490 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/emissivity_def-eps-co
+nverted-to.pdf figs/emissivity_def.eps>
+(epstopdf)             \includegraphics on input line 519.
+Package epstopdf Info: Output file is already uptodate.
+<figs/emissivity_def-eps-converted-to.pdf, id=539, 537.00626pt x 201.75375pt>
+File: figs/emissivity_def-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/emissivity_def-eps-converted-to.pdf>
+Package pdftex.def Info: figs/emissivity_def-eps-converted-to.pdf  used on inpu
+t line 519.
+(pdftex.def)             Requested size: 170.71652pt x 64.13768pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+[16 <./figs/emissivity_def-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/extinction_def.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 5095 bytes
+(epstopdf)             Output file: <figs/extinction_def-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:41
+(epstopdf)                    size: 4881 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/extinction_def-eps-co
+nverted-to.pdf figs/extinction_def.eps>
+(epstopdf)             \includegraphics on input line 545.
+Package epstopdf Info: Output file is already uptodate.
+<figs/extinction_def-eps-converted-to.pdf, id=559, 257.96375pt x 73.27374pt>
+File: figs/extinction_def-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/extinction_def-eps-converted-to.pdf>
+Package pdftex.def Info: figs/extinction_def-eps-converted-to.pdf  used on inpu
+t line 545.
+(pdftex.def)             Requested size: 250.38434pt x 71.12349pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+[17 <./figs/extinction_def-eps-converted-to.pdf>] [18pdfTeX warning (ext4): des
+tination with the same identifier (name{equation.4.11}) has been already used, 
+duplicate ignored
+
+\AtBegShi@Output ...ipout \box \AtBeginShipoutBox 
+                                                  \fi \fi 
+l.606 \ee
+         ] [19] [20]
+<figs/homogeneous_slab.pdf, id=613, 390.06354pt x 184.90016pt>
+File: figs/homogeneous_slab.pdf Graphic file (type pdf)
+<use figs/homogeneous_slab.pdf>
+Package pdftex.def Info: figs/homogeneous_slab.pdf  used on input line 665.
+(pdftex.def)             Requested size: 398.33858pt x 188.82137pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 665--667
+ [][] 
+ []
+
+<figs/homogeneous_slab_spectrum.pdf, id=616, 385.54666pt x 158.53604pt>
+File: figs/homogeneous_slab_spectrum.pdf Graphic file (type pdf)
+<use figs/homogeneous_slab_spectrum.pdf>
+Package pdftex.def Info: figs/homogeneous_slab_spectrum.pdf  used on input line
+ 674.
+(pdftex.def)             Requested size: 398.33858pt x 163.80194pt.
+
+Overfull \hbox (8.33858pt too wide) in paragraph at lines 674--675
+ [][] 
+ []
+
+[21 <./figs/homogeneous_slab.pdf>]
+<figs/plane_parallel.pdf, id=657, 319.1925pt x 244.915pt>
+File: figs/plane_parallel.pdf Graphic file (type pdf)
+<use figs/plane_parallel.pdf>
+Package pdftex.def Info: figs/plane_parallel.pdf  used on input line 702.
+(pdftex.def)             Requested size: 250.38434pt x 192.1204pt.
+ [22 <./figs/homogeneous_slab_spectrum.pdf>]
+[23 <./figs/plane_parallel.pdf>]
+<figs/eddington_barbier.pdf, id=712, 261.66351pt x 216.35204pt>
+File: figs/eddington_barbier.pdf Graphic file (type pdf)
+<use figs/eddington_barbier.pdf>
+Package pdftex.def Info: figs/eddington_barbier.pdf  used on input line 745.
+(pdftex.def)             Requested size: 250.38434pt x 207.02872pt.
+ [24]
+Package epstopdf Info: Source file: <figs/Bnu.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 359942 bytes
+(epstopdf)             Output file: <figs/Bnu-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:42
+(epstopdf)                    size: 205414 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/Bnu-eps-converted-to.
+pdf figs/Bnu.eps>
+(epstopdf)             \includegraphics on input line 779.
+Package epstopdf Info: Output file is already uptodate.
+<figs/Bnu-eps-converted-to.pdf, id=724, 249.93375pt x 170.6375pt>
+File: figs/Bnu-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/Bnu-eps-converted-to.pdf>
+Package pdftex.def Info: figs/Bnu-eps-converted-to.pdf  used on input line 779.
+
+(pdftex.def)             Requested size: 250.38434pt x 170.95212pt.
+ [25 <./figs/eddington_barbier.pdf>]
+[26 <./figs/Bnu-eps-converted-to.pdf>] [27] [28] [29] [30] [31] [32] [33]
+Underfull \hbox (badness 10000) in paragraph at lines 1042--1046
+
+ []
+
+[34] [35] [36] [37] [38] [39]
+Package epstopdf Info: Source file: <figs/rotational-broadening.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 9561 bytes
+(epstopdf)             Output file: <figs/rotational-broadening-eps-converted-t
+o.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:42
+(epstopdf)                    size: 10736 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/rotational-broadening
+-eps-converted-to.pdf figs/rotational-broadening.eps>
+(epstopdf)             \includegraphics on input line 1197.
+Package epstopdf Info: Output file is already uptodate.
+<figs/rotational-broadening-eps-converted-to.pdf, id=909, 571.13374pt x 302.128
+75pt>
+File: figs/rotational-broadening-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/rotational-broadening-eps-converted-to.pdf>
+Package pdftex.def Info: figs/rotational-broadening-eps-converted-to.pdf  used 
+on input line 1197.
+(pdftex.def)             Requested size: 341.43306pt x 180.6194pt.
+ [40 <./figs/rotational-broadening-eps-converted-to.pdf>]
+Package epstopdf Info: Source file: <figs/profiles.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 122835 bytes
+(epstopdf)             Output file: <figs/profiles-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:42
+(epstopdf)                    size: 41508 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/profiles-eps-converte
+d-to.pdf figs/profiles.eps>
+(epstopdf)             \includegraphics on input line 1251.
+Package epstopdf Info: Output file is already uptodate.
+<figs/profiles-eps-converted-to.pdf, id=931, 249.93375pt x 170.6375pt>
+File: figs/profiles-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/profiles-eps-converted-to.pdf>
+Package pdftex.def Info: figs/profiles-eps-converted-to.pdf  used on input line
+ 1251.
+(pdftex.def)             Requested size: 341.43306pt x 233.13142pt.
+ [41] [42 <./figs/profiles-eps-converted-to.pdf>] [43]
+<figs/line_broadening.pdf, id=961, 320.95847pt x 285.13086pt>
+File: figs/line_broadening.pdf Graphic file (type pdf)
+<use figs/line_broadening.pdf>
+Package pdftex.def Info: figs/line_broadening.pdf  used on input line 1307.
+(pdftex.def)             Requested size: 284.52756pt x 252.78238pt.
+ [44] [45 <./figs/line_broadening.pdf>] [46] [47] [48]
+<figs/RCW120.pdf, id=1057, 342.13414pt x 382.96606pt>
+File: figs/RCW120.pdf Graphic file (type pdf)
+<use figs/RCW120.pdf>
+Package pdftex.def Info: figs/RCW120.pdf  used on input line 1428.
+(pdftex.def)             Requested size: 341.43306pt x 382.18791pt.
+ [49] [50 <./figs/RCW120.pdf>]
+Overfull \hbox (11.52206pt too wide) in paragraph at lines 1442--1443
+[]\OT1/cmr/m/n/12 We now ask our-self the ques-tion: what is the neu-tral frac-
+tion $\OML/cmm/m/it/12 ^^X \OT1/cmr/m/n/12 = \OML/cmm/m/it/12 n[]=\OT1/cmr/m/n/
+12 (\OML/cmm/m/it/12 n[] \OT1/cmr/m/n/12 +
+ []
+
+[51] [52]
+<figs/galaxy_cluster.pdf, id=1141, 400.0406pt x 404.25348pt>
+File: figs/galaxy_cluster.pdf Graphic file (type pdf)
+<use figs/galaxy_cluster.pdf>
+Package pdftex.def Info: figs/galaxy_cluster.pdf  used on input line 1499.
+(pdftex.def)             Requested size: 341.43306pt x 345.0358pt.
+ [53] [54 <./figs/galaxy_cluster.pdf>]
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1535.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `superscript' on input line 1535.
+
+
+Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
+(hyperref)                removing `math shift' on input line 1535.
+
+[55] [56] [57] [58]
+<figs/three-level-atom.pdf, id=1255, 209.78375pt x 283.0575pt>
+File: figs/three-level-atom.pdf Graphic file (type pdf)
+<use figs/three-level-atom.pdf>
+Package pdftex.def Info: figs/three-level-atom.pdf  used on input line 1675.
+(pdftex.def)             Requested size: 170.71652pt x 230.34644pt.
+ [59] [60 <./figs/three-level-atom.pdf>] [61] [62] [63]
+[64]
+Overfull \hbox (5.22516pt too wide) in paragraph at lines 1798--1799
+[]\OT1/cmr/m/n/12 electronic-rotational-vibrational tran-si-tions: $^^A\OML/cmm
+/m/it/12 v \OT1/cmr/m/n/12 =$anything$\OML/cmm/m/it/12 ; \OT1/cmr/m/n/12 ^^A\OM
+L/cmm/m/it/12 J \OT1/cmr/m/n/12 = 0\OML/cmm/m/it/12 ; \OMS/cmsy/m/n/12 ^^F\OT1/
+cmr/m/n/12 1$ 
+ []
+
+[65] [66]
+<figs/schijf.pdf, id=1332, 597.23125pt x 845.1575pt>
+File: figs/schijf.pdf Graphic file (type pdf)
+<use figs/schijf.pdf>
+Package pdftex.def Info: figs/schijf.pdf  used on input line 1865.
+(pdftex.def)             Requested size: 170.71652pt x 241.58167pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+[67
+
+]
+Package epstopdf Info: Source file: <figs/camera.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 3040 bytes
+(epstopdf)             Output file: <figs/camera-eps-converted-to.pdf>
+(epstopdf)                    date: 2019-02-18 13:59:43
+(epstopdf)                    size: 5837 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/camera-eps-converted-
+to.pdf figs/camera.eps>
+(epstopdf)             \includegraphics on input line 1890.
+Package epstopdf Info: Output file is already uptodate.
+<figs/camera-eps-converted-to.pdf, id=1344, 350.30875pt x 298.11375pt>
+File: figs/camera-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/camera-eps-converted-to.pdf>
+Package pdftex.def Info: figs/camera-eps-converted-to.pdf  used on input line 1
+890.
+(pdftex.def)             Requested size: 170.71652pt x 145.28096pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+
+Package amsmath Warning: Foreign command \over;
+(amsmath)                \frac or \genfrac should be used instead
+(amsmath)                 on input line 1906.
+
+[68 <./figs/schijf.pdf>]
+Package epstopdf Info: Source file: <figs/sharp-edge-star.eps>
+(epstopdf)                    date: 2019-02-18 13:58:55
+(epstopdf)                    size: 5810 bytes
+(epstopdf)             Output file: <figs/sharp-edge-star-eps-converted-to.pdf>
+
+(epstopdf)                    date: 2019-02-18 13:59:43
+(epstopdf)                    size: 5992 bytes
+(epstopdf)             Command: <repstopdf --outfile=figs/sharp-edge-star-eps-c
+onverted-to.pdf figs/sharp-edge-star.eps>
+(epstopdf)             \includegraphics on input line 1926.
+Package epstopdf Info: Output file is already uptodate.
+<figs/sharp-edge-star-eps-converted-to.pdf, id=1384, 457.71pt x 337.26pt>
+File: figs/sharp-edge-star-eps-converted-to.pdf Graphic file (type pdf)
+<use figs/sharp-edge-star-eps-converted-to.pdf>
+Package pdftex.def Info: figs/sharp-edge-star-eps-converted-to.pdf  used on inp
+ut line 1926.
+(pdftex.def)             Requested size: 284.52756pt x 209.65996pt.
+
+endSC@dblfloat: \@tempdima=390.0pt
+[69 <./figs/camera-eps-converted-to.pdf>] [70 <./figs/sharp-edge-star-eps-conve
+rted-to.pdf>] (./AS7006_ln.bbl)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1971.
+ [71]
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1971.
+ (./AS7006_ln.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1971.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1971.
+
+Package rerunfilecheck Info: File `AS7006_ln.out' has not changed.
+(rerunfilecheck)             Checksum: C42408659DEF7354EEF82C7492D482AF;2976.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 1971.
+ ) 
+Here is how much of TeX's memory you used:
+ 8230 strings out of 492649
+ 124412 string characters out of 6129622
+ 220056 words of memory out of 5000000
+ 11586 multiletter control sequences out of 15000+600000
+ 12291 words of font info for 45 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 36i,11n,48p,1125b,627s stack positions out of 5000i,500n,10000p,200000b,80000s
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb><
+/usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cmextra/cmex8.pf
+b></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+></usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi12.pfb>
+</usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb></
+usr/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb></us
+r/local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi9.pfb></usr/
+local/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb></usr/lo
+cal/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/loca
+l/texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/local/
+texlive/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr6.pfb></usr/local/tex
+live/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr7.pfb></usr/local/texliv
+e/2018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb></usr/local/texlive/2
+018/texmf-dist/fonts/type1/public/amsfonts/cm/cmr9.pfb></usr/local/texlive/2018
+/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl10.pfb></usr/local/texlive/2018/
+texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></usr/local/texlive/2018/t
+exmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb></usr/local/texlive/2018/tex
+mf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb></usr/local/texlive/2018/texmf
+-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/local/texlive/2018/texmf-
+dist/fonts/type1/public/amsfonts/cm/cmtt10.pfb></usr/local/texlive/2018/texmf-d
+ist/fonts/type1/public/txfonts/rtxmi.pfb></usr/local/texlive/2018/texmf-dist/fo
+nts/type1/public/txfonts/rtxr.pfb></usr/local/texlive/2018/texmf-dist/fonts/typ
+e1/public/txfonts/txsy.pfb>
+Output written on AS7006_ln.pdf (71 pages, 3140836 bytes).
+PDF statistics:
+ 1581 PDF objects out of 1728 (max. 8388607)
+ 1271 compressed objects within 13 object streams
+ 422 named destinations out of 1000 (max. 500000)
+ 452 words of extra memory for PDF output out of 10000 (max. 10000000)
+
